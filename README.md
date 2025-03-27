@@ -12,4 +12,4 @@ Bem-vindo ao **Data Science com R**! Este repositório contém projetos, tutoria
 ## 🚀 Como usar?  
 1️⃣ Clone o repositório:  
 ```bash
-git clone https://github.com/seu-usuario/data-science-com-r.git
+git clone https://github.com/Renan-Silveira/R-para-Data-Science.git
